@@ -1,6 +1,8 @@
 # Forecasting steel prices using Fbprophet Python library
 The purpose of this article is to describe the process used in our model which employs Fbprophet to forecast the price of HRC steel prices in China and iron ore 62% Fe content CFR China prices.
 
+![commod-metal-forecast-02](https://user-images.githubusercontent.com/89068039/211773338-669734d5-28ec-49d1-99d6-9946da2f1744.png)
+
 Example Code Disclaimer:
 ALL EXAMPLE CODE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS FOR ILLUSTRATIVE PURPOSES ONLY. REFINITIV MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE EXAMPLE CODE, OR THE INFORMATION, CONTENT, OR MATERIALS USED IN CONNECTION WITH THE EXAMPLE CODE. YOU EXPRESSLY AGREE THAT YOUR USE OF THE EXAMPLE CODE IS AT YOUR SOLE RISK.
 
